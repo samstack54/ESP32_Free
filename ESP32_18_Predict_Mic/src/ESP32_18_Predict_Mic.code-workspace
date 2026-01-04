@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "ESP32_17_Mic_Collect",
+			"path": "../../ESP32_17_Mic_Collect"
+		}
+	],
+	"settings": {}
+}
